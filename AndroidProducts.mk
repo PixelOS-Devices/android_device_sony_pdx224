@@ -4,4 +4,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_pdx224.mk
+    $(LOCAL_DIR)/custom_pdx224.mk
