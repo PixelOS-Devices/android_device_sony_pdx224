@@ -4,7 +4,8 @@
     "target_path": "device/sony/sm8450-common"
   },
   {
-    "repository": "log1cs/proprietary_vendor_sony_pdx224",
+    "remote": "gitlab",
+    "repository": "NoPrincessHere/proprietary_vendor_sony_pdx224",
     "target_path": "vendor/sony/pdx224"
   }
 ]
